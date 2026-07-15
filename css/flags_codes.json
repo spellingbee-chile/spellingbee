@@ -1,0 +1,1218 @@
+[
+    {
+        "title": "Afghanistan",
+        "dataCode": "af"
+    },
+    {
+        "title": "Åland Islands",
+        "dataCode": "ax"
+    },
+    {
+        "title": "Albania",
+        "dataCode": "al"
+    },
+    {
+        "title": "Algeria",
+        "dataCode": "dz"
+    },
+    {
+        "title": "American Samoa",
+        "dataCode": "as"
+    },
+    {
+        "title": "Andorra",
+        "dataCode": "ad"
+    },
+    {
+        "title": "Angola",
+        "dataCode": "ao"
+    },
+    {
+        "title": "Anguilla",
+        "dataCode": "ai"
+    },
+    {
+        "title": "Antarctica",
+        "dataCode": "aq"
+    },
+    {
+        "title": "Antigua and Barbuda",
+        "dataCode": "ag"
+    },
+    {
+        "title": "Argentina",
+        "dataCode": "ar"
+    },
+    {
+        "title": "Armenia",
+        "dataCode": "am"
+    },
+    {
+        "title": "Aruba",
+        "dataCode": "aw"
+    },
+    {
+        "title": "Australia",
+        "dataCode": "au"
+    },
+    {
+        "title": "Austria",
+        "dataCode": "at"
+    },
+    {
+        "title": "Azerbaijan",
+        "dataCode": "az"
+    },
+    {
+        "title": "Bahamas",
+        "dataCode": "bs"
+    },
+    {
+        "title": "Bahrain",
+        "dataCode": "bh"
+    },
+    {
+        "title": "Bangladesh",
+        "dataCode": "bd"
+    },
+    {
+        "title": "Barbados",
+        "dataCode": "bb"
+    },
+    {
+        "title": "Belarus",
+        "dataCode": "by"
+    },
+    {
+        "title": "Belgium",
+        "dataCode": "be"
+    },
+    {
+        "title": "Belize",
+        "dataCode": "bz"
+    },
+    {
+        "title": "Benin",
+        "dataCode": "bj"
+    },
+    {
+        "title": "Bermuda",
+        "dataCode": "bm"
+    },
+    {
+        "title": "Bhutan",
+        "dataCode": "bt"
+    },
+    {
+        "title": "Bolivia",
+        "dataCode": "bo"
+    },
+    {
+        "title": "Bosnia and Herzegovina",
+        "dataCode": "ba"
+    },
+    {
+        "title": "Botswana",
+        "dataCode": "bw"
+    },
+    {
+        "title": "Bouvet Island",
+        "dataCode": "bv"
+    },
+    {
+        "title": "Brazil",
+        "dataCode": "br"
+    },
+    {
+        "title": "British Indian Ocean Territory",
+        "dataCode": "io"
+    },
+    {
+        "title": "Brunei",
+        "dataCode": "bn"
+    },
+    {
+        "title": "Bulgaria",
+        "dataCode": "bg"
+    },
+    {
+        "title": "Burkina Faso",
+        "dataCode": "bf"
+    },
+    {
+        "title": "Burundi",
+        "dataCode": "bi"
+    },
+    {
+        "title": "Cambodia",
+        "dataCode": "kh"
+    },
+    {
+        "title": "Cameroon",
+        "dataCode": "cm"
+    },
+    {
+        "title": "Canada",
+        "dataCode": "ca"
+    },
+    {
+        "title": "Cape Verde",
+        "dataCode": "cv"
+    },
+    {
+        "title": "Caribbean Netherlands",
+        "dataCode": "bq"
+    },
+    {
+        "title": "Cayman Islands",
+        "dataCode": "ky"
+    },
+    {
+        "title": "Central African Republic",
+        "dataCode": "cf"
+    },
+    {
+        "title": "Chad",
+        "dataCode": "td"
+    },
+    {
+        "title": "Chile",
+        "dataCode": "cl"
+    },
+    {
+        "title": "China",
+        "dataCode": "cn"
+    },
+    {
+        "title": "Christmas Island",
+        "dataCode": "cx"
+    },
+    {
+        "title": "Cocos Islands",
+        "dataCode": "cc"
+    },
+    {
+        "title": "Colombia",
+        "dataCode": "co"
+    },
+    {
+        "title": "Comoros",
+        "dataCode": "km"
+    },
+    {
+        "title": "Republic of the Congo",
+        "dataCode": "cg"
+    },
+    {
+        "title": "DR Congo",
+        "dataCode": "cd"
+    },
+    {
+        "title": "Cook Islands",
+        "dataCode": "ck"
+    },
+    {
+        "title": "Costa Rica",
+        "dataCode": "cr"
+    },
+    {
+        "title": "Côte d'Ivoire",
+        "dataCode": "ci"
+    },
+    {
+        "title": "Croatia",
+        "dataCode": "hr"
+    },
+    {
+        "title": "Cuba",
+        "dataCode": "cu"
+    },
+    {
+        "title": "Curaçao",
+        "dataCode": "cw"
+    },
+    {
+        "title": "Cyprus",
+        "dataCode": "cy"
+    },
+    {
+        "title": "Czechia",
+        "dataCode": "cz"
+    },
+    {
+        "title": "Denmark",
+        "dataCode": "dk"
+    },
+    {
+        "title": "Djibouti",
+        "dataCode": "dj"
+    },
+    {
+        "title": "Dominica",
+        "dataCode": "dm"
+    },
+    {
+        "title": "Dominican Republic",
+        "dataCode": "do"
+    },
+    {
+        "title": "Ecuador",
+        "dataCode": "ec"
+    },
+    {
+        "title": "Egypt",
+        "dataCode": "eg"
+    },
+    {
+        "title": "El Salvador",
+        "dataCode": "sv"
+    },
+    {
+        "title": "England",
+        "dataCode": "gb-eng"
+    },
+    {
+        "title": "Equatorial Guinea",
+        "dataCode": "gq"
+    },
+    {
+        "title": "Eritrea",
+        "dataCode": "er"
+    },
+    {
+        "title": "Estonia",
+        "dataCode": "ee"
+    },
+    {
+        "title": "Eswatini",
+        "dataCode": "sz"
+    },
+    {
+        "title": "Ethiopia",
+        "dataCode": "et"
+    },
+    {
+        "title": "Falkland Islands",
+        "dataCode": "fk"
+    },
+    {
+        "title": "Faroe Islands",
+        "dataCode": "fo"
+    },
+    {
+        "title": "Fiji",
+        "dataCode": "fj"
+    },
+    {
+        "title": "Finland",
+        "dataCode": "fi"
+    },
+    {
+        "title": "France",
+        "dataCode": "fr"
+    },
+    {
+        "title": "French Guiana",
+        "dataCode": "gf"
+    },
+    {
+        "title": "French Polynesia",
+        "dataCode": "pf"
+    },
+    {
+        "title": "French Southern and Antarctic Lands",
+        "dataCode": "tf"
+    },
+    {
+        "title": "Gabon",
+        "dataCode": "ga"
+    },
+    {
+        "title": "Gambia",
+        "dataCode": "gm"
+    },
+    {
+        "title": "Georgia",
+        "dataCode": "ge"
+    },
+    {
+        "title": "Germany",
+        "dataCode": "de"
+    },
+    {
+        "title": "Ghana",
+        "dataCode": "gh"
+    },
+    {
+        "title": "Gibraltar",
+        "dataCode": "gi"
+    },
+    {
+        "title": "Greece",
+        "dataCode": "gr"
+    },
+    {
+        "title": "Greenland",
+        "dataCode": "gl"
+    },
+    {
+        "title": "Grenada",
+        "dataCode": "gd"
+    },
+    {
+        "title": "Guadeloupe",
+        "dataCode": "gp"
+    },
+    {
+        "title": "Guam",
+        "dataCode": "gu"
+    },
+    {
+        "title": "Guatemala",
+        "dataCode": "gt"
+    },
+    {
+        "title": "Guernsey",
+        "dataCode": "gg"
+    },
+    {
+        "title": "Guinea",
+        "dataCode": "gn"
+    },
+    {
+        "title": "Guinea-Bissau",
+        "dataCode": "gw"
+    },
+    {
+        "title": "Guyana",
+        "dataCode": "gy"
+    },
+    {
+        "title": "Haiti",
+        "dataCode": "ht"
+    },
+    {
+        "title": "Heard Island and McDonald Islands",
+        "dataCode": "hm"
+    },
+    {
+        "title": "Honduras",
+        "dataCode": "hn"
+    },
+    {
+        "title": "Hong Kong",
+        "dataCode": "hk"
+    },
+    {
+        "title": "Hungary",
+        "dataCode": "hu"
+    },
+    {
+        "title": "Iceland",
+        "dataCode": "is"
+    },
+    {
+        "title": "India",
+        "dataCode": "in"
+    },
+    {
+        "title": "Indonesia",
+        "dataCode": "id"
+    },
+    {
+        "title": "Iran",
+        "dataCode": "ir"
+    },
+    {
+        "title": "Iraq",
+        "dataCode": "iq"
+    },
+    {
+        "title": "Ireland",
+        "dataCode": "ie"
+    },
+    {
+        "title": "Isle of Man",
+        "dataCode": "im"
+    },
+    {
+        "title": "Israel",
+        "dataCode": "il"
+    },
+    {
+        "title": "Italy",
+        "dataCode": "it"
+    },
+    {
+        "title": "Jamaica",
+        "dataCode": "jm"
+    },
+    {
+        "title": "Japan",
+        "dataCode": "jp"
+    },
+    {
+        "title": "Jersey",
+        "dataCode": "je"
+    },
+    {
+        "title": "Jordan",
+        "dataCode": "jo"
+    },
+    {
+        "title": "Kazakhstan",
+        "dataCode": "kz"
+    },
+    {
+        "title": "Kenya",
+        "dataCode": "ke"
+    },
+    {
+        "title": "Kiribati",
+        "dataCode": "ki"
+    },
+    {
+        "title": "North Korea",
+        "dataCode": "kp"
+    },
+    {
+        "title": "South Korea",
+        "dataCode": "kr"
+    },
+    {
+        "title": "Kosovo",
+        "dataCode": "xk"
+    },
+    {
+        "title": "Kuwait",
+        "dataCode": "kw"
+    },
+    {
+        "title": "Kyrgyzstan",
+        "dataCode": "kg"
+    },
+    {
+        "title": "Laos",
+        "dataCode": "la"
+    },
+    {
+        "title": "Latvia",
+        "dataCode": "lv"
+    },
+    {
+        "title": "Lebanon",
+        "dataCode": "lb"
+    },
+    {
+        "title": "Lesotho",
+        "dataCode": "ls"
+    },
+    {
+        "title": "Liberia",
+        "dataCode": "lr"
+    },
+    {
+        "title": "Libya",
+        "dataCode": "ly"
+    },
+    {
+        "title": "Liechtenstein",
+        "dataCode": "li"
+    },
+    {
+        "title": "Lithuania",
+        "dataCode": "lt"
+    },
+    {
+        "title": "Luxembourg",
+        "dataCode": "lu"
+    },
+    {
+        "title": "Macau",
+        "dataCode": "mo"
+    },
+    {
+        "title": "Madagascar",
+        "dataCode": "mg"
+    },
+    {
+        "title": "Malawi",
+        "dataCode": "mw"
+    },
+    {
+        "title": "Malaysia",
+        "dataCode": "my"
+    },
+    {
+        "title": "Maldives",
+        "dataCode": "mv"
+    },
+    {
+        "title": "Mali",
+        "dataCode": "ml"
+    },
+    {
+        "title": "Malta",
+        "dataCode": "mt"
+    },
+    {
+        "title": "Marshall Islands",
+        "dataCode": "mh"
+    },
+    {
+        "title": "Martinique",
+        "dataCode": "mq"
+    },
+    {
+        "title": "Mauritania",
+        "dataCode": "mr"
+    },
+    {
+        "title": "Mauritius",
+        "dataCode": "mu"
+    },
+    {
+        "title": "Mayotte",
+        "dataCode": "yt"
+    },
+    {
+        "title": "Mexico",
+        "dataCode": "mx"
+    },
+    {
+        "title": "Micronesia",
+        "dataCode": "fm"
+    },
+    {
+        "title": "Moldova",
+        "dataCode": "md"
+    },
+    {
+        "title": "Monaco",
+        "dataCode": "mc"
+    },
+    {
+        "title": "Mongolia",
+        "dataCode": "mn"
+    },
+    {
+        "title": "Montenegro",
+        "dataCode": "me"
+    },
+    {
+        "title": "Montserrat",
+        "dataCode": "ms"
+    },
+    {
+        "title": "Morocco",
+        "dataCode": "ma"
+    },
+    {
+        "title": "Mozambique",
+        "dataCode": "mz"
+    },
+    {
+        "title": "Myanmar",
+        "dataCode": "mm"
+    },
+    {
+        "title": "Namibia",
+        "dataCode": "na"
+    },
+    {
+        "title": "Nauru",
+        "dataCode": "nr"
+    },
+    {
+        "title": "Nepal",
+        "dataCode": "np"
+    },
+    {
+        "title": "Netherlands",
+        "dataCode": "nl"
+    },
+    {
+        "title": "New Caledonia",
+        "dataCode": "nc"
+    },
+    {
+        "title": "New Zealand",
+        "dataCode": "nz"
+    },
+    {
+        "title": "Nicaragua",
+        "dataCode": "ni"
+    },
+    {
+        "title": "Niger",
+        "dataCode": "ne"
+    },
+    {
+        "title": "Nigeria",
+        "dataCode": "ng"
+    },
+    {
+        "title": "Niue",
+        "dataCode": "nu"
+    },
+    {
+        "title": "Norfolk Island",
+        "dataCode": "nf"
+    },
+    {
+        "title": "North Macedonia",
+        "dataCode": "mk"
+    },
+    {
+        "title": "Northern Ireland",
+        "dataCode": "gb-nir"
+    },
+    {
+        "title": "Northern Mariana Islands",
+        "dataCode": "mp"
+    },
+    {
+        "title": "Norway",
+        "dataCode": "no"
+    },
+    {
+        "title": "Oman",
+        "dataCode": "om"
+    },
+    {
+        "title": "Pakistan",
+        "dataCode": "pk"
+    },
+    {
+        "title": "Palau",
+        "dataCode": "pw"
+    },
+    {
+        "title": "Palestine",
+        "dataCode": "ps"
+    },
+    {
+        "title": "Panama",
+        "dataCode": "pa"
+    },
+    {
+        "title": "Papua New Guinea",
+        "dataCode": "pg"
+    },
+    {
+        "title": "Paraguay",
+        "dataCode": "py"
+    },
+    {
+        "title": "Peru",
+        "dataCode": "pe"
+    },
+    {
+        "title": "Philippines",
+        "dataCode": "ph"
+    },
+    {
+        "title": "Pitcairn Islands",
+        "dataCode": "pn"
+    },
+    {
+        "title": "Poland",
+        "dataCode": "pl"
+    },
+    {
+        "title": "Portugal",
+        "dataCode": "pt"
+    },
+    {
+        "title": "Puerto Rico",
+        "dataCode": "pr"
+    },
+    {
+        "title": "Qatar",
+        "dataCode": "qa"
+    },
+    {
+        "title": "Réunion",
+        "dataCode": "re"
+    },
+    {
+        "title": "Romania",
+        "dataCode": "ro"
+    },
+    {
+        "title": "Russia",
+        "dataCode": "ru"
+    },
+    {
+        "title": "Rwanda",
+        "dataCode": "rw"
+    },
+    {
+        "title": "Saint Barthélemy",
+        "dataCode": "bl"
+    },
+    {
+        "title": "Saint Helena, Ascension and Tristan da Cunha",
+        "dataCode": "sh"
+    },
+    {
+        "title": "Saint Kitts and Nevis",
+        "dataCode": "kn"
+    },
+    {
+        "title": "Saint Lucia",
+        "dataCode": "lc"
+    },
+    {
+        "title": "Saint Martin",
+        "dataCode": "mf"
+    },
+    {
+        "title": "Saint Pierre and Miquelon",
+        "dataCode": "pm"
+    },
+    {
+        "title": "Saint Vincent and the Grenadines",
+        "dataCode": "vc"
+    },
+    {
+        "title": "Samoa",
+        "dataCode": "ws"
+    },
+    {
+        "title": "San Marino",
+        "dataCode": "sm"
+    },
+    {
+        "title": "São Tomé and Príncipe",
+        "dataCode": "st"
+    },
+    {
+        "title": "Saudi Arabia",
+        "dataCode": "sa"
+    },
+    {
+        "title": "Scotland",
+        "dataCode": "gb-sct"
+    },
+    {
+        "title": "Senegal",
+        "dataCode": "sn"
+    },
+    {
+        "title": "Serbia",
+        "dataCode": "rs"
+    },
+    {
+        "title": "Seychelles",
+        "dataCode": "sc"
+    },
+    {
+        "title": "Sierra Leone",
+        "dataCode": "sl"
+    },
+    {
+        "title": "Singapore",
+        "dataCode": "sg"
+    },
+    {
+        "title": "Sint Maarten",
+        "dataCode": "sx"
+    },
+    {
+        "title": "Slovakia",
+        "dataCode": "sk"
+    },
+    {
+        "title": "Slovenia",
+        "dataCode": "si"
+    },
+    {
+        "title": "Solomon Islands",
+        "dataCode": "sb"
+    },
+    {
+        "title": "Somalia",
+        "dataCode": "so"
+    },
+    {
+        "title": "South Africa",
+        "dataCode": "za"
+    },
+    {
+        "title": "South Georgia",
+        "dataCode": "gs"
+    },
+    {
+        "title": "South Sudan",
+        "dataCode": "ss"
+    },
+    {
+        "title": "Spain",
+        "dataCode": "es"
+    },
+    {
+        "title": "Sri Lanka",
+        "dataCode": "lk"
+    },
+    {
+        "title": "Sudan",
+        "dataCode": "sd"
+    },
+    {
+        "title": "Suriname",
+        "dataCode": "sr"
+    },
+    {
+        "title": "Svalbard and Jan Mayen",
+        "dataCode": "sj"
+    },
+    {
+        "title": "Sweden",
+        "dataCode": "se"
+    },
+    {
+        "title": "Switzerland",
+        "dataCode": "ch"
+    },
+    {
+        "title": "Syria",
+        "dataCode": "sy"
+    },
+    {
+        "title": "Taiwan",
+        "dataCode": "tw"
+    },
+    {
+        "title": "Tajikistan",
+        "dataCode": "tj"
+    },
+    {
+        "title": "Tanzania",
+        "dataCode": "tz"
+    },
+    {
+        "title": "Thailand",
+        "dataCode": "th"
+    },
+    {
+        "title": "Timor-Leste",
+        "dataCode": "tl"
+    },
+    {
+        "title": "Togo",
+        "dataCode": "tg"
+    },
+    {
+        "title": "Tokelau",
+        "dataCode": "tk"
+    },
+    {
+        "title": "Tonga",
+        "dataCode": "to"
+    },
+    {
+        "title": "Trinidad and Tobago",
+        "dataCode": "tt"
+    },
+    {
+        "title": "Tunisia",
+        "dataCode": "tn"
+    },
+    {
+        "title": "Turkey",
+        "dataCode": "tr"
+    },
+    {
+        "title": "Turkmenistan",
+        "dataCode": "tm"
+    },
+    {
+        "title": "Turks and Caicos Islands",
+        "dataCode": "tc"
+    },
+    {
+        "title": "Tuvalu",
+        "dataCode": "tv"
+    },
+    {
+        "title": "Uganda",
+        "dataCode": "ug"
+    },
+    {
+        "title": "Ukraine",
+        "dataCode": "ua"
+    },
+    {
+        "title": "United Arab Emirates",
+        "dataCode": "ae"
+    },
+    {
+        "title": "United Kingdom",
+        "dataCode": "gb"
+    },
+    {
+        "title": "United States",
+        "dataCode": "us"
+    },
+    {
+        "title": "United States Minor Outlying Islands",
+        "dataCode": "um"
+    },
+    {
+        "title": "Uruguay",
+        "dataCode": "uy"
+    },
+    {
+        "title": "Uzbekistan",
+        "dataCode": "uz"
+    },
+    {
+        "title": "Vanuatu",
+        "dataCode": "vu"
+    },
+    {
+        "title": "Vatican City",
+        "dataCode": "va"
+    },
+    {
+        "title": "Venezuela",
+        "dataCode": "ve"
+    },
+    {
+        "title": "Vietnam",
+        "dataCode": "vn"
+    },
+    {
+        "title": "British Virgin Islands",
+        "dataCode": "vg"
+    },
+    {
+        "title": "United States Virgin Islands",
+        "dataCode": "vi"
+    },
+    {
+        "title": "Wales",
+        "dataCode": "gb-wls"
+    },
+    {
+        "title": "Wallis and Futuna",
+        "dataCode": "wf"
+    },
+    {
+        "title": "Western Sahara",
+        "dataCode": "eh"
+    },
+    {
+        "title": "Yemen",
+        "dataCode": "ye"
+    },
+    {
+        "title": "Zambia",
+        "dataCode": "zm"
+    },
+    {
+        "title": "Zimbabwe",
+        "dataCode": "zw"
+    },
+    {
+        "title": "Alabama",
+        "dataCode": "us-al"
+    },
+    {
+        "title": "Alaska",
+        "dataCode": "us-ak"
+    },
+    {
+        "title": "Arizona",
+        "dataCode": "us-az"
+    },
+    {
+        "title": "Arkansas",
+        "dataCode": "us-ar"
+    },
+    {
+        "title": "California",
+        "dataCode": "us-ca"
+    },
+    {
+        "title": "Colorado",
+        "dataCode": "us-co"
+    },
+    {
+        "title": "Connecticut",
+        "dataCode": "us-ct"
+    },
+    {
+        "title": "Delaware",
+        "dataCode": "us-de"
+    },
+    {
+        "title": "Florida",
+        "dataCode": "us-fl"
+    },
+    {
+        "title": "Georgia",
+        "dataCode": "us-ga"
+    },
+    {
+        "title": "Hawaii",
+        "dataCode": "us-hi"
+    },
+    {
+        "title": "Idaho",
+        "dataCode": "us-id"
+    },
+    {
+        "title": "Illinois",
+        "dataCode": "us-il"
+    },
+    {
+        "title": "Indiana",
+        "dataCode": "us-in"
+    },
+    {
+        "title": "Iowa",
+        "dataCode": "us-ia"
+    },
+    {
+        "title": "Kansas",
+        "dataCode": "us-ks"
+    },
+    {
+        "title": "Kentucky",
+        "dataCode": "us-ky"
+    },
+    {
+        "title": "Louisiana",
+        "dataCode": "us-la"
+    },
+    {
+        "title": "Maine",
+        "dataCode": "us-me"
+    },
+    {
+        "title": "Maryland",
+        "dataCode": "us-md"
+    },
+    {
+        "title": "Massachusetts",
+        "dataCode": "us-ma"
+    },
+    {
+        "title": "Michigan",
+        "dataCode": "us-mi"
+    },
+    {
+        "title": "Minnesota",
+        "dataCode": "us-mn"
+    },
+    {
+        "title": "Mississippi",
+        "dataCode": "us-ms"
+    },
+    {
+        "title": "Missouri",
+        "dataCode": "us-mo"
+    },
+    {
+        "title": "Montana",
+        "dataCode": "us-mt"
+    },
+    {
+        "title": "Nebraska",
+        "dataCode": "us-ne"
+    },
+    {
+        "title": "Nevada",
+        "dataCode": "us-nv"
+    },
+    {
+        "title": "New Hampshire",
+        "dataCode": "us-nh"
+    },
+    {
+        "title": "New Jersey",
+        "dataCode": "us-nj"
+    },
+    {
+        "title": "New Mexico",
+        "dataCode": "us-nm"
+    },
+    {
+        "title": "New York",
+        "dataCode": "us-ny"
+    },
+    {
+        "title": "North Carolina",
+        "dataCode": "us-nc"
+    },
+    {
+        "title": "North Dakota",
+        "dataCode": "us-nd"
+    },
+    {
+        "title": "Ohio",
+        "dataCode": "us-oh"
+    },
+    {
+        "title": "Oklahoma",
+        "dataCode": "us-ok"
+    },
+    {
+        "title": "Oregon",
+        "dataCode": "us-or"
+    },
+    {
+        "title": "Pennsylvania",
+        "dataCode": "us-pa"
+    },
+    {
+        "title": "Rhode Island",
+        "dataCode": "us-ri"
+    },
+    {
+        "title": "South Carolina",
+        "dataCode": "us-sc"
+    },
+    {
+        "title": "South Dakota",
+        "dataCode": "us-sd"
+    },
+    {
+        "title": "Tennessee",
+        "dataCode": "us-tn"
+    },
+    {
+        "title": "Texas",
+        "dataCode": "us-tx"
+    },
+    {
+        "title": "Utah",
+        "dataCode": "us-ut"
+    },
+    {
+        "title": "Vermont",
+        "dataCode": "us-vt"
+    },
+    {
+        "title": "Virginia",
+        "dataCode": "us-va"
+    },
+    {
+        "title": "Washington",
+        "dataCode": "us-wa"
+    },
+    {
+        "title": "West Virginia",
+        "dataCode": "us-wv"
+    },
+    {
+        "title": "Wisconsin",
+        "dataCode": "us-wi"
+    },
+    {
+        "title": "Wyoming",
+        "dataCode": "us-wy"
+    }
+]
