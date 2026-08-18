@@ -1,146 +1,191 @@
 const DICCIONARIO = {
     "1_grade": {
-        "Normal Round": [
-            "leg", "ant", "small", "got", "pet",
-            "back", "Max", "pen", "dad", "pot",
-            "bag", "lip", "tent", "fat", "quick",
-            "big", "hop", "up", "Ron", "rock",
-            "comb", "sit", "wig", "lock", "sick",
-            "can", "not", "way", "fish", "see",
-            "rat", "pants", "wet", "help", "sad",
-            "fits", "pat", "wing", "hot", "song",
-            "bad", "mat", "use", "fox", "ring",
-            "did", "man", "van", "kit", "pen"
+        "Normal Words": [
+            "mother", "father", "mummy", "daddy",
+            "brother", "sister", "baby", "family",
+            "grandma", "grandpa", "school", "teacher",
+            "student", "classroom", "book", "pencil",
+            "eraser", "ruler", "chair", "table",
+            "cat", "dog", "fish", "bird",
+            "duck", "rabbit", "horse", "sheep",
+            "frog", "monkey", "apple", "banana",
+            "orange", "pear", "bread", "cheese",
+            "milk", "water", "juice", "cake",
+            "red", "blue", "yellow", "green",
+            "pink", "purple", "brown", "black",
+            "white", "orange", "one", "two",
+            "three", "four", "five", "six",
+            "seven", "eight", "nine", "ten",
+            "house", "door", "window", "kitchen",
+            "bedroom", "bathroom", "garden", "bed",
+            "lamp", "clock", "sun", "moon",
+            "star", "tree", "flower", "grass",
+            "rain", "cloud", "river", "beach"
         ],
-        "Extra Round": [
 
-        ]
-    }, "2_grade": {
-        "Normal Round": [
-            "feathers", "afraid", "trunk", "cake", "lost",
-            "again", "friends", "sing", "always", "games",
-            "think", "dance", "monkey", "baby", "her",
-            "Tuesday", "dresses", "nothing", "ball", "hurry",
-            "slower", "club", "lucky", "anyone", "growing",
-            "spring", "chair", "morning", "after", "heavy",
-            "under", "ducks", "our", "bigger", "Jack",
-            "water", "egg", "nose", "bird", "window",
-            "ear", "saddest", "body", "July", "everyone",
-            "sang", "wish", "kisses", "fastest", "seed"
+        "Challenge Words": [
+            "playground", "rainbow", "butterfly", "elephant",
+            "strawberry", "breakfast", "classroom", "backpack",
+            "sunshine", "beautiful", "firefighter", "hospital",
+            "dinosaur", "birthday", "football", "helicopter",
+            "crocodile", "umbrella", "watermelon", "toothbrush"
+        ]}
+    , "2_grade": {
+        "Normal Words": [
+            "T-shirt", "sweater", "jacket", "trousers",
+            "shorts", "dress", "skirt", "socks",
+            "shoes", "boots", "head", "shoulder",
+            "stomach", "elbow", "finger", "knee",
+            "ankle", "mouth", "teeth", "tongue",
+            "sunny", "rainy", "windy", "cloudy",
+            "snowy", "stormy", "hot", "cold",
+            "warm", "foggy", "bicycle", "scooter",
+            "bus", "train", "airplane", "helicopter",
+            "boat", "truck", "motorcycle", "taxi",
+            "puzzle", "teddy", "robot", "doll",
+            "kite", "blocks", "marbles", "skateboard",
+            "ball", "yo-yo", "bakery", "supermarket",
+            "library", "hospital", "pharmacy", "police",
+            "firefighter", "dentist", "park", "museum",
+            "wake", "wash", "brush", "comb",
+            "dress", "eat", "drink", "study",
+            "sleep", "clean", "happy", "sad",
+            "angry", "excited", "tired", "scared",
+            "surprised", "hungry", "thirsty", "proud"
         ],
-        "Extra Round": [
-            "leg", "ant", "small", "got", "pet",
-            "back", "Max", "pen", "dad", "pot",
-            "bag", "lip", "tent", "fat", "quick",
-            "big", "hop", "up", "Ron", "rock",
-            "comb", "sit", "wig", "lock", "sick",
-            "can", "not", "way", "fish", "see",
-            "rat", "pants", "wet", "help", "sad",
-            "fits", "pat", "wing", "hot", "song",
-            "bad", "mat", "use", "fox", "ring",
-            "did", "man", "van", "kit", "pen"
+
+        "Challenge Words": [
+            "crocodile", "kangaroo", "butterfly", "octopus",
+            "cucumber", "pineapple", "watermelon", "calendar",
+            "computer", "television", "playground", "birthday",
+            "umbrella", "binoculars", "firefighter", "astronaut",
+            "neighbour", "adventure", "afternoon", "favourite"
         ]
-    }, "3_grade": {
-        "Normal Round": [
-            "experiment", "chase", "morning", "state", "world",
-            "country", "enjoy", "machines", "miss", "safe",
-            "shape", "woman", "bunch", "early", "listen",
-            "rescue", "whale", "build", "dust", "spider",
-            "nests", "someone", "wonderful", "cover", "excited",
-            "lunch", "smile", "talking", "climb", "everything",
-            "lemonade", "late", "people", "amphibian", "dropping",
-            "hungry", "pineapple", "vapor", "brave", "drawing",
-            "horse", "vote", "born", "danger", "Wednesday",
-            "mammals", "teacher", "amazing", "different", "fire"
-        ],
-        "Extra Round": [
-            "feathers", "afraid", "trunk", "cake", "lost",
-            "again", "friends", "sing", "always", "games",
-            "think", "dance", "monkey", "baby", "her",
-            "Tuesday", "dresses", "nothing", "ball", "hurry",
-            "slower", "club", "lucky", "anyone", "growing",
-            "spring", "chair", "morning", "after", "heavy",
-            "under", "ducks", "our", "bigger", "Jack",
-            "water", "egg", "nose", "bird", "window",
-            "ear", "saddest", "body", "July", "everyone",
-            "sang", "wish", "kisses", "fastest", "seed"
-        ]
-    }, "4_grade": {
-        "Normal Round": [
-            "Sunday", "motion", "thousand", "Christmas", "gardener",
-            "minute", "soap", "boring", "fridge", "worried",
-            "million", "sequence", "butterfly", "flippers", "uniform",
-            "mechanic", "quarter", "because", "envelope", "spotted",
-            "together", "March", "private", "bicycle", "enough",
-            "worth", "leave", "passenger", "geography", "path",
-            "backyard", "dynamic", "glove", "hatch", "penguin",
-            "actor", "dessert", "twice", "August", "daughter",
-            "tooth", "great", "parents", "actually", "chess",
-            "wasn’t", "through", "November", "aunts", "character"
-        ],
-        "Extra Round": [
-            "experiment", "chase", "morning", "state", "world",
-            "country", "enjoy", "machines", "miss", "safe",
-            "shape", "woman", "bunch", "early", "listen",
-            "rescue", "whale", "build", "dust", "spider",
-            "nests", "someone", "wonderful", "cover", "excited",
-            "lunch", "smile", "talking", "climb", "everything",
-            "lemonade", "late", "people", "amphibian", "dropping",
-            "hungry", "pineapple", "vapor", "brave", "drawing",
-            "horse", "vote", "born", "danger", "Wednesday",
-            "mammals", "teacher", "amazing", "different", "fire"
-        ]
-    }, "5_grade": {
-        "Normal Round": [
-            "newspaper", "shopping", "camera", "explore", "waitress",
-            "nowhere", "screen", "business", "electricity", "young",
-            "kingdom", "relaxing", "breakfast", "dollar", "visited",
-            "join", "quick", "before", "didn’t", "umbrella",
-            "juice", "quietly", "autumn", "choose", "tomorrow",
-            "journey", "people", "assistant", "correct", "traffic",
-            "introduce", "potatoes", "August", "crowded", "summer",
-            "healthy", "photography", "address", "college", "strange",
-            "hobby", "passport", "anybody", "cinnamon", "sometimes",
-            "exciting", "message", "accident", "chemist", "sentence"
-        ],
-        "Extra Round": [
-            "Sunday", "motion", "thousand", "Christmas", "gardener",
-            "minute", "soap", "boring", "fridge", "worried",
-            "million", "sequence", "butterfly", "flippers", "uniform",
-            "mechanic", "quarter", "because", "envelope", "spotted",
-            "together", "March", "private", "bicycle", "enough",
-            "worth", "leave", "passenger", "geography", "path",
-            "backyard", "dynamic", "glove", "hatch", "penguin",
-            "actor", "dessert", "twice", "August", "daughter",
-            "tooth", "great", "parents", "actually", "chess",
-            "wasn’t", "through", "November", "aunts", "character"
-        ]
-    }, "6_grade": {
-        "Normal Round": [
-            "noisy", "Switzerland", "career", "guide", "windscreen",
-            "medicine", "special", "campsite", "glasses", "wilderness",
-            "luggage", "spaghetti", "building", "favourite", "yourself",
-            "kilometre", "sweater", "busy", "fantastic", "women",
-            "journalist", "somewhere", "brought", "foreign", "wedding",
-            "impossible", "surprised", "blanket", "factory", "wasn’t",
-            "hosts", "telephone", "quiet", "scratch", "amazing",
-            "downstairs", "vegetable", "heavy", "couldn’t", "affirmative",
-            "download", "thunderstorm", "healthy", "passenger", "advance",
-            "comfortable", "thousand", "hairdryer", "opposite", "account"
-        ],
-        "Extra Round": [
-            "newspaper", "shopping", "camera", "explore", "waitress",
-            "nowhere", "screen", "business", "electricity", "young",
-            "kingdom", "relaxing", "breakfast", "dollar", "visited",
-            "join", "quick", "before", "didn’t", "umbrella",
-            "juice", "quietly", "autumn", "choose", "tomorrow",
-            "journey", "people", "assistant", "correct", "traffic",
-            "introduce", "potatoes", "August", "crowded", "summer",
-            "healthy", "photography", "address", "college", "strange",
-            "hobby", "passport", "anybody", "cinnamon", "sometimes",
-            "exciting", "message", "accident", "chemist", "sentence"
-        ]
-    }
+        }, "3_grade": {
+  "Normal Words": [
+    "basketball", "volleyball", "tennis", "swimming",
+    "cycling", "dancing", "climbing", "skating",
+    "surfing", "running", "drawing", "painting",
+    "reading", "singing", "cooking", "fishing",
+    "camping", "collecting", "knitting", "gardening",
+    "airport", "cinema", "bookstore", "post office",
+    "shopping centre", "stadium", "café", "bank",
+    "market", "theatre", "Monday", "Tuesday",
+    "Wednesday", "Thursday", "Friday", "Saturday",
+    "Sunday", "morning", "afternoon", "evening",
+    "nurse", "pilot", "chef", "farmer",
+    "builder", "mechanic", "artist", "actor",
+    "musician", "scientist", "friendly", "helpful",
+    "polite", "clever", "funny", "strong",
+    "quiet", "noisy", "beautiful", "handsome",
+    "passport", "ticket", "holiday", "suitcase",
+    "luggage", "hotel", "island", "mountain",
+    "forest", "village", "arrive", "borrow",
+    "carry", "catch", "choose", "decide",
+    "enjoy", "forget", "remember", "travel"
+  ],
+
+  "Challenge Words": [
+    "adventure", "competition", "important", "delicious",
+    "different", "wonderful", "dangerous", "excellent",
+    "photograph", "invitation", "astronaut", "engineer",
+    "librarian", "newspaper", "chocolate", "yesterday",
+    "tomorrow", "carefully", "favourite", "countryside"
+  ]
+}, "4_grade": {
+  "Normal Words": [
+    "continent", "country", "capital", "ocean",
+    "desert", "jungle", "waterfall", "volcano",
+    "valley", "bridge", "balcony", "garage",
+    "basement", "chimney", "cupboard", "ceiling",
+    "floor", "mirror", "blanket", "pillow",
+    "keyboard", "screen", "laptop", "tablet",
+    "printer", "website", "internet", "password",
+    "online", "email", "breakfast", "lunch",
+    "dinner", "vegetables", "fruit", "exercise",
+    "vitamins", "healthy", "hungry", "recipe",
+    "recycle", "pollution", "rubbish", "plastic",
+    "paper", "bottle", "nature", "energy",
+    "protect", "planet", "mathematics", "science",
+    "history", "geography", "music", "technology",
+    "language", "homework", "project", "lesson",
+    "journey", "luggage", "campsite", "souvenir",
+    "railway", "compass", "backpacking", "airport",
+    "sightseeing", "adventure", "exciting", "interesting",
+    "difficult", "amazing", "careful", "noisy",
+    "peaceful", "comfortable", "fantastic", "successful"
+  ],
+
+  "Challenge Words": [
+    "encyclopedia", "laboratory", "electricity", "celebration",
+    "information", "environment", "communication", "invitation",
+    "conversation", "dictionary", "telescope", "aquarium",
+    "adventure", "population", "temperature", "imagination",
+    "photograph", "responsibility", "opportunity", "discovery"
+  ]
+}, "5_grade": {
+  "Normal Words": [
+    "culture", "tradition", "language", "community",
+    "citizen", "equality", "respect", "diversity",
+    "heritage", "identity", "ecosystem", "wildlife",
+    "rainforest", "climate", "conserve", "endangered",
+    "habitat", "renewable", "resource", "biodiversity",
+    "technology", "application", "programmer", "database",
+    "browser", "software", "upload", "download",
+    "password", "username", "balanced", "nutrition",
+    "protein", "calcium", "hygiene", "medicine",
+    "illness", "recover", "ambulance", "emergency",
+    "destination", "itinerary", "accommodation", "excursion",
+    "tourism", "customs", "luggage", "schedule",
+    "departure", "arrival", "assignment", "paragraph",
+    "vocabulary", "grammar", "dictionary", "research",
+    "presentation", "experiment", "conclusion", "explanation",
+    "architect", "veterinarian", "journalist", "photographer",
+    "designer", "inventor", "explorer", "engineer",
+    "entrepreneur", "pharmacist", "gravity", "molecule",
+    "magnet", "electricity", "energy", "invention",
+    "laboratory", "microscope", "telescope", "observation"
+  ],
+
+  "Challenge Words": [
+    "achievement", "communication", "responsibility", "opportunity",
+    "determination", "curiosity", "independence", "perseverance",
+    "collaboration", "imagination", "civilization", "investigation",
+    "biodiversity", "architecture", "encyclopedia", "extraordinary",
+    "transportation", "environmental", "pronunciation", "recommendation"
+  ]
+}, "6_grade": {
+  "Normal Words": [
+    "society", "government", "democracy", "volunteer",
+    "charity", "justice", "poverty", "freedom",
+    "population", "migration", "conservation", "deforestation",
+    "recycling", "ecosystem", "pollution", "greenhouse",
+    "atmosphere", "biodiversity", "extinction", "sustainability",
+    "artificial", "intelligence", "cybersecurity", "programmer",
+    "robotics", "innovation", "digital", "satellite",
+    "algorithm", "device", "bacteria", "vaccine",
+    "diagnosis", "treatment", "infection", "circulation",
+    "skeleton", "digestion", "nutrition", "organism",
+    "accountant", "psychologist", "biologist", "economist",
+    "politician", "electrician", "translator", "lawyer",
+    "consultant", "manager", "analyse", "compare",
+    "describe", "evaluate", "evidence", "conclusion",
+    "summarize", "identify", "investigate", "interpret",
+    "reservation", "passenger", "departure", "arrival",
+    "immigration", "transportation", "destination", "luggage",
+    "accommodation", "itinerary", "confidence", "creativity",
+    "discipline", "honesty", "leadership", "motivation",
+    "resilience", "responsibility", "commitment", "determination"
+  ],
+
+  "Challenge Words": [
+    "extraordinary", "pronunciation", "environmental", "communication",
+    "international", "archaeological", "responsibility", "entrepreneurship",
+    "independence", "civilization", "biodiversity", "psychological",
+    "investigation", "collaboration", "opportunity", "appreciation",
+    "misunderstanding", "encyclopedia", "parliamentary", "interdisciplinary"
+  ]
+}
 
 };
 
@@ -364,7 +409,7 @@ function agregarPalabraATabla2(id, palabra) {
 
 function selectRonda(ronda) {
     const btn = document.getElementById('dropdownMenuButton');
-    const roundKey = `${ronda} Round`;
+    const roundKey = `${ronda} Words`;
 
     btn.innerHTML = `<i class="fa fa-cog fa-spin fa-1x fa-fw fa-sm text-white-50"></i> ${roundKey}`;
     btn.setAttribute('value', roundKey);
@@ -411,14 +456,14 @@ function loadContent(level) {
 
             const dropdownBtn = document.getElementById("dropdownMenuButton");
             if (dropdownBtn) {
-                dropdownBtn.innerHTML = `<i class="fa fa-cog fa-spin fa-1x fa-fw fa-sm text-white-50"></i> Normal Round`;
-                dropdownBtn.setAttribute("value", "Normal Round");
+                dropdownBtn.innerHTML = `<i class="fa fa-cog fa-spin fa-1x fa-fw fa-sm text-white-50"></i> Normal Words`;
+                dropdownBtn.setAttribute("value", "Normal Words");
             }
 
             const icono = document.getElementById('icono');
             if (icono) {
                 icono.setAttribute("onclick", `girarNumeros('${level}')`);
-                updateTooltip(level, "Normal Round");
+                updateTooltip(level, "Normal Words");
             }
             const resetbtn = document.getElementById("resetbutton");
             if (resetbtn) {
