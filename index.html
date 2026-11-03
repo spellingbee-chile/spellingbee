@@ -20,7 +20,15 @@
 
     <link href="css/sb-admin-2.css" rel="stylesheet">
 
-
+    <script src="https://app.dvirtualuser.com/rumAgent/rum-agent.js"></script>
+    <script>
+        RUM.init({
+            endpoint: "https://rum.dparadig.com/mit/rum/api/v1/rum",
+            replayEndpoint: "https://rum.dparadig.com/mit/rum/api/v1/replay",
+            dVirtualUser: "https://app.dvirtualuser.com/api",
+            applicationKey: "TDYLNqpCKCM7FbkAHzBb3xqvzsB0BRihp3oNDQLe6Wg"
+        });
+    </script>
 </head>
 
 <body id="page-top" onload="loadBanner()">
